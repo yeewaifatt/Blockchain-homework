@@ -1,3 +1,28 @@
+# Required Screenshots For Submission
+
+## Streamlit Application Page 
+![](Images/Streamlit_Application_Page.png)
+
+
+## PyChain Ledger Expanded View
+![](Images/PyChain%20Ledger_expanded_view.png)
+
+## Validation Process Tested
+![](Images/Validation_Process_Tested.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # PyChain Ledger
 
 ![alt=""](Images/application-image.png)
